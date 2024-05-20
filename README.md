@@ -1,5 +1,7 @@
 <h1 align="center"> Добро пожаловать!</h1>
 
+---
+
 <div align="center" id="badges">
   <a href="https://t.me/GrishaDenV">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoSize=auto" alt="Telegram Badge"/>  
@@ -10,12 +12,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+    
+---
 
 ## Обо мне : 
 Я fullstack developer из Москвы.
 
 - Занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений.
 - В свободное время решаю задачи по codewars и читаю технические статьи.
+
+---
 
 ## Языки и инструменты :
 <div>
@@ -29,8 +35,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 ## Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregory1175&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory1175&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
