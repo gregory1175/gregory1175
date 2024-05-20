@@ -1,8 +1,4 @@
-<h1 align="center" #> Добро пожаловать! 👋 </h1>
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/gcZxPiUFzoHgA.webp" width="100"/>
-</div>
+<h1 align="center"> Добро пожаловать!</h1>
 
 <div align="center" id="badges">
   <a href="https://t.me/GrishaDenV">
@@ -15,13 +11,13 @@
   </a>
 </div>
 
-### :man_technologist: Обо мне : 
+## Обо мне : 
 Я fullstack developer из Москвы.
 
-- :telescope: Я занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений.
-- :zap: В свободное время решаю задачи по codewars и читаю технические статьи.
+- Занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений.
+- В свободное время решаю задачи по codewars и читаю технические статьи.
 
-### :hammer_and_wrench: Языки и инструменты :
+## Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
@@ -32,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregory1175&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory1175&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
