@@ -41,6 +41,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregory1175&theme=dark)](https://git.io/streak-stats)
 
 ---
+### Моя статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory1175&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
