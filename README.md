@@ -1,24 +1,11 @@
-<h1 align="center"> Добро пожаловать!</h1>
-
----
-
-<div align="center" id="badges">
-  <a href="https://t.me/GrishaDenV">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoSize=auto" alt="Telegram Badge"/>  
-  </a>
-  <a href="https://www.linkedin.com/in/gregory-denisov-a590392ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-    
----
+<h1 align="center"> Приветствую!</h1>
 
 ### Обо мне : 
-Привет! Меня зовут Григорий, и я начинающий фронтенд разработчик из Москвы. Путь в IT начался с 2021 году, тогда я потупил в Мирэа по направлению data science. Для себя немного изучал Java. Однако вдохновение нашел в веб-разработке. С 2023 года обучаюсь на курсах Яндекс.Практикума, погружаясь в создание внешнего и внутреннего интерфейса для веб-приложений.
+  Меня зовут Григорий, я разработчик из Москвы. <br> Для связи: <a href="https://t.me/GrishaDenV"><img width="24" height="24" src="https://img.icons8.com/color/48/telegram-app--v1.png" target="_blank"     alt="telegram-app--v1"/></a> или <a href="https://www.linkedin.com/in/gregory-denisov-a590392ab"><img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" target="_blank" alt="linkedin"/></a>
 
-- Готов освоить новые профессиональные навыки и применить на практике в работе.
-- Мне нравится совершенствоваться изучая новые инструменты
-- В своббодное время решаю задачи на Codewars и работаю над собсвенными проектами 
+- С Осенью 2023 учусь на курсе ‘Фулстек-разработчик’ от яндекс практикум.
+- Вижу свое будущее разработчиком.
+- В свободное время работаю над своими проектами и изучаю новые инструменты.
 
 ---
 
