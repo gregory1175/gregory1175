@@ -1,11 +1,13 @@
 <h1 align="center"> Приветствую!</h1>
 
 ### Обо мне : 
-  Меня зовут Григорий, я разработчик из Москвы. <br> Для связи: <a href="https://t.me/GrishaDenV"><img width="24" height="24" src="https://img.icons8.com/color/48/telegram-app--v1.png" target="_blank"     alt="telegram-app--v1"/></a> или <a href="https://www.linkedin.com/in/gregory-denisov-a590392ab"><img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" target="_blank" alt="linkedin"/></a>
+`>` Меня зовут Григорий, я разработчик из Москвы. <br>  `>` Для связи:  <a href="https://t.me/GrishaDenV"><img width="24" height="24" src="https://img.icons8.com/color/48/telegram-app--v1.png" target="_blank"     alt="telegram-app--v1"/></a> <a href="https://www.linkedin.com/in/gregory-denisov-a590392ab"><img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" target="_blank" alt="linkedin"/></a>
 
 - С Осенью 2023 учусь на курсе ‘Фулстек-разработчик’ от яндекс практикум.
-- Вижу свое будущее разработчиком.
-- В свободное время работаю над своими проектами и изучаю новые инструменты.
+- В свободное время работаю над проектами и изучаю новые инструменты.
+- Когда-нибудь хочу попробовать разработку робототехнических систем и AI.
+- Люблю математику.
+- Вижу свое будущее в айти.
 
 ---
 
