@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
+[![codewars](https://www.codewars.com/users/gregory1175/badges/small)](https://www.codewars.com/users/gregory1175) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gregory1175)](https://github.com/ryo-ma/github-profile-trophy)
 
