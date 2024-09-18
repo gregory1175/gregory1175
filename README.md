@@ -1,6 +1,6 @@
 # Welcome!
 
-- I'm fullstack-developer from Moscow
+- I'm web-developer from Moscow
 
 
 #### Main Stack
