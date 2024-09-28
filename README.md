@@ -11,10 +11,12 @@
 
 [![codewars](https://www.codewars.com/users/gregory1175/badges/small)](https://www.codewars.com/users/gregory1175) 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregory1175&theme=solarized_dark)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gregory1175)](https://github.com/ryo-ma/github-profile-trophy)
 
 >Every wall is a door.
 Ralph Waldo Emerson
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory1175&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregory1175&theme=solarized_dark) статистика языков программирования
+
